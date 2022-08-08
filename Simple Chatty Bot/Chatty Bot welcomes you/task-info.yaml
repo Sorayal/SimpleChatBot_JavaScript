@@ -1,0 +1,15 @@
+type: remote_edu
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+- name: tests.py
+  visible: false
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17054#comment
+check_profile: hyperskill_node_javascript
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 26 Jul 2022 08:04:26 UTC
+record: 1

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: JavaScript uses Java at its core.
+- text: It was just a marketing move, JavaScript is not related to Java.
+- text: JavaScript and Java uses the same syntax.
+- text: It was developed by the same team that developed Java.
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16140#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 25 Jul 2022 17:40:15 UTC
+record: -1
+selected_options:
+- 1
+custom_name: Is it Java?
+local_check: false

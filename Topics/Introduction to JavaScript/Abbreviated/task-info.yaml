@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Script
+- text: Java
+- text: TypeScript
+- text: TScript
+- text: JS
+- text: JEST
+- text: JScript
+- text: ECMA
+- text: ES
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8017#comment
+status: Solved
+record: -1
+local_check: false
